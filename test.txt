@@ -19,7 +19,7 @@ hello owrld
 上游仓库  fork 变更
 上游仓库  fork 变更2 2
 
-proc分支
+proc分支  编辑冲突
 
 
 dev编辑分支 冲突
